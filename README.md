@@ -1,5 +1,10 @@
 # Shared Memory Debugging tools (shm-debugger)
 
+> [!WARNING]  
+> This tool is deprecated and repo is archived, use
+> https://github.com/race-engineering-center/ksana instead 🦀
+
+
 This set of tools provides a comprehensive solution for debugging apps that rely on
 reading data from shared memory. It allows recording and replaying data, making it easier
 to analyze and troubleshoot issues. Primarily aimed for racing simulators,
